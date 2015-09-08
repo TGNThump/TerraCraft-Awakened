@@ -1,0 +1,2 @@
+# TerraCraft Awakened #
+TerraCraft Awakened is Terra Gaming Network's Minecraft modpack. If you have any suggestions for mods to be included or any other issues with the pack, create a new issue at [https://github.com/TerraGamingNetwork/TerraCraft-Awakened/issues/new](https://github.com/TerraGamingNetwork/TerraCraft-Awakened/issues/new "TerraCraft Awakened New Issues")
