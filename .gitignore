@@ -1,5 +1,4 @@
 # MultiMc
-
 # Minecraft
 /minecraft/usernamecache.json
 /minecraft/options.txt
@@ -13,3 +12,8 @@
 /minecraft/compendiumunlocks
 /minecraft/blueprints
 /minecraft/config/YAMPST.nbt
+instance.cfg
+minecraft/liteconfig/liteloader.properties
+minecraft/liteconfig/common/liteloader.keys.properties
+minecraft/config/splash.properties
+minecraft/config/InvTweaks.cfg
