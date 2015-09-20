@@ -21,3 +21,4 @@ minecraft/config/NEI/client.cfg
 minecraft/config/splash.properties
 minecraft/liteconfig/liteloader.properties
 minecraft/liteconfig/common/liteloader.keys.properties
+minecraft/mods/VoxelMods/voxelMap/cache
