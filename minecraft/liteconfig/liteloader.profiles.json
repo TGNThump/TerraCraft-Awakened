@@ -8,7 +8,8 @@
       "forgerelocation-0.0.1.4-universal.jar": true,
       "forgerelocationfmp-0.0.1.2-universal.jar": true,
       "mrtjpcore-1.7.10-1.1.0.31-universal.jar": true,
-      "newlaunch": true
+      "newlaunch": true,
+      "voxelmap": true
     }
   }
 }
