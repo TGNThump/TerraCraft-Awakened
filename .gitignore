@@ -4,7 +4,6 @@
 /minecraft/options.txt
 /minecraft/texturepacks
 /minecraft/screenshots
-/minecraft/scripts
 /minecraft/saves
 /minecraft/resourcepacks
 /minecraft/logs
@@ -21,6 +20,6 @@ minecraft/config/NEI/client.cfg
 minecraft/config/splash.properties
 minecraft/liteconfig/liteloader.properties
 minecraft/liteconfig/common/liteloader.keys.properties
-minecraft/mods/VoxelMods/voxelMap/cache
 minecraft/TCNodeTracker
 minecraft/TIWorldData
+minecraft/mods/VoxelMods/voxelMap/
